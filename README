@@ -1,0 +1,11 @@
+---
+psh-shuf
+-- shuffler algorithm in pure sh
+---
+Comparison
+-- busybox/coreutils shuf vs psh-shuf
+---- This algorithm is 100% hand-made
+---- the code from busybox/coreutils was not referenced
+---- Additionally busybox/coreutils shuf is faster
+---- This is just meant to be a POC
+---
