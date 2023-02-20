@@ -1,8 +1,8 @@
 [submodule "ran"]
 	path = ran
-	url = git@dicksdeathabove.xyz:~mia/psh-prng
+	url = ssh://g.posix.gay/psh-prng
 	branch = master
 [submodule "math"]
 	path = math
-	url = https://dicksdeathabove.xyz/~mia/psh-fractional/
+	url = ssh://g.posix.gay/psh-fractional
 	branch = master
